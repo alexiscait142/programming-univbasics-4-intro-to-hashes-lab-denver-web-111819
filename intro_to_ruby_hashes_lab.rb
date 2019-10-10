@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:daenarys => "Mother of Dragons"
+  {:daenarys => "Mother of Dragons"}
 end
 
 def pioneer
