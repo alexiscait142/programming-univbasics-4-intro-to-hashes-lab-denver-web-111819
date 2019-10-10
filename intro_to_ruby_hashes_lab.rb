@@ -29,5 +29,5 @@ def update_counting_hash(hash, key)
   else 
     hash[key] = 1
   end
-  return update_hash(hash[key])
+  puts update_hash(hash[key])
 end
