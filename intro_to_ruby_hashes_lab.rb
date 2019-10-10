@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:daenarys => "Mother of Dragons"}
+  {:annperkins => "beautiful tropical fish"}
 end
 
 def pioneer
@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  # return a hash that includes the key and value parameters passed into this method
+  hash[key] = value
 end
 
 def read_from_hash(hash, key)
